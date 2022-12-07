@@ -18,6 +18,8 @@ I`m 24 years old. I borned in Tasheknt. Lived and graduaded high school then mov
 * JavsScript (basics)
 * Figma
 
+## Code Example 
+
 ```javascript
 const carName = 'BMW';
 let maxCarSpeed = '280 mp/h';
