@@ -1,1 +1,1 @@
-# rsschool-cv
+https://iym666.github.io/rsschool-cv/
